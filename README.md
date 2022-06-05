@@ -15,4 +15,4 @@
 - week 8: [Unsupervised Learning,Dimensionality Reduction](https://github.com/mihirkudale/Machine-Learning/tree/main/week%208)
 - week 9: [Anomaly Detection,Recommender Systems](https://github.com/mihirkudale/Machine-Learning/tree/main/week%209)
 - week 10: [Large Scale Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/10)
-- week 11:
+- week 11: [Application Photo OCR](https://github.com/mihirkudale/Machine-Learning/tree/main/week%2011)
