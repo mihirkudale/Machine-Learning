@@ -8,3 +8,11 @@
 - Week 1: [Introduction,Linear Regression with One Variable,Linear Algebra Review](https://github.com/mihirkudale/Machine-Learning/tree/main/week%201)
 - Week 2: [Linear Regression with Multiple Variables,Octave/Matlab Tutorial](https://github.com/mihirkudale/Machine-Learning/tree/main/week%202)
 - Week 3: [Logistic Regression,Regularization](https://github.com/mihirkudale/Machine-Learning/tree/main/week%203)
+- week 4: [Neural Networks Representation](https://github.com/mihirkudale/Machine-Learning/tree/main/week%204)
+- week 5:
+- week 6:
+- week 7:
+- week 8:
+- week 9:
+- week 10:
+- week 11:
