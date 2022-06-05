@@ -12,7 +12,7 @@
 - week 5: [Neural Networks:Learning](https://github.com/mihirkudale/Machine-Learning/tree/main/week%205)
 - week 6: [Advice for applying machine learning,Machine Learning System Design](https://github.com/mihirkudale/Machine-Learning/tree/main/week%206)
 - week 7: [Support Vector Machines](https://github.com/mihirkudale/Machine-Learning/tree/main/week%207)
-- week 8:
-- week 9:
-- week 10:
+- week 8: [Unsupervised Learning,Dimensionality Reduction](https://github.com/mihirkudale/Machine-Learning/tree/main/week%208)
+- week 9: [Anomaly Detection,Recommender Systems](https://github.com/mihirkudale/Machine-Learning/tree/main/week%209)
+- week 10: [Large Scale Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/10)
 - week 11:
