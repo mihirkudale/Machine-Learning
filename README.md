@@ -10,7 +10,7 @@
 - Week 3: [Logistic Regression,Regularization](https://github.com/mihirkudale/Machine-Learning/tree/main/week%203)
 - week 4: [Neural Networks Representation](https://github.com/mihirkudale/Machine-Learning/tree/main/week%204)
 - week 5: [Neural Networks:Learning](https://github.com/mihirkudale/Machine-Learning/tree/main/week%205)
-- week 6: [Advice for applying machine learning](https://github.com/mihirkudale/Machine-Learning/tree/main/week%206)
+- week 6: [Advice for applying machine learning,Machine Learning System Design](https://github.com/mihirkudale/Machine-Learning/tree/main/week%206)
 - week 7:
 - week 8:
 - week 9:
